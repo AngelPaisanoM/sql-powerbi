@@ -24,4 +24,4 @@ Connected Power BI directly to the PostgreSQL view to build an interactive dashb
 - **Purchases by City:** Geographic distribution of the order volume to identify top-performing regions.
 
 ## Dashboard Snapshot
-
+![Olist E-Commerce Dashboard](PowerBI_tests_Olist.png)
